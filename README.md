@@ -1,6 +1,7 @@
 # EEP_Picorv32
 This is the source code for the thesis titled "A Machine Learning Approach to Hardware Verification: From Random to Reasoned"
 For the command flags, refer to the appendix section of the paper. QuestaSim is required.
+If it doesnt run on your local machine, there might be pathing issues or environment variable is not being set up correctly
 
 Instruction:
 1. Clone the repo and cd ./EEP_PicoRV32
